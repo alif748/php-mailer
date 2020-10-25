@@ -11,4 +11,4 @@
     ```
     composer require phpmailer/phpmailer
     ```
-3. Rename `password_example.json` menjadi `password.json`, lalu isi email dan passwordnya serta tujuannya
+3. Rename `password_example.json` menjadi `password.json`, lalu ubah isi email dan passwordnya serta tujuannya
