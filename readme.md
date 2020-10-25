@@ -7,7 +7,7 @@
 
 **Persiapan ngoding**
 1. Buka CMD pada folder yang akan diinstall
-2. Install composer, lalu jalankan :
+2. Install dulu composernya, lalu jalankan :
     ```
     composer require phpmailer/phpmailer
     ```
