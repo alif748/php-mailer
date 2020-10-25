@@ -20,11 +20,11 @@
 
     $mail->IsHTML(true);
     $mail->AddAddress($get['to'], "Alif");
-    $mail->SetFrom($get['email'], "qqq");
+    $mail->SetFrom($get['email'], "CS Niji");
     // $mail->AddReplyTo("reply-to-email@domain", "reply-to-name");
     // $mail->AddCC("cc-recipient-email@domain", "cc-recipient-name");
-    $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
-    $content = "<b>This is a Test Email sent via Gmail SMTP Server using PHP mailer class.</b>";
+    $mail->Subject = "Halo kamu!";
+    $content = "Halo tes123 123";
 
     $mail->MsgHTML($content);
     if(!$mail->Send()) {
