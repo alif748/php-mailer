@@ -3,7 +3,7 @@
 2. Masuk ke [Google Account](https://myaccount.google.com)
 3. Klik security
 4. Turn on less secure app access
-    ![image](/img/security.jpg)
+![image](/img/security.jpg)
 
 **Persiapan ngoding**
 1. Buka CMD pada folder yang akan diinstall
